@@ -1,0 +1,7 @@
+train: C:\Users\james\OneDrive\Desktop\repos\rsbot2\training\train
+val: C:\Users\james\OneDrive\Desktop\repos\rsbot2\training\val
+
+nc: 1
+
+names : ["rune_pickaxe"]
+

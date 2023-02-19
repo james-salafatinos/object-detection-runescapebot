@@ -1,18 +1,16 @@
-https://www.youtube.com/watch?v=zWuuk_j1iwM
-https://www.electronjs.org/docs/latest/api/frameless-window#hidden
+# Training Custom Object Detection OSRS Bot in Python
+Python 3.7.5rc1
 
-George was here :) !
-
-https://stackoverflow.com/questions/7244321/how-do-i-update-or-sync-a-forked-repository-on-github
-Goals
-- [ ] Ability to highlight bounding box on the screen and tag it
-- [ ] Ability to detect objects from bounded boxes
-- [ ] Ability to load and save model weights
-- [ ] Ability to see a small panel interface to load / save from database
-- [ ] Ability to paint frame-by-frame boundingboxes from model/tensorflow-lite predictions with three.js
+[https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 
 
-> npm install --save --legacy-peer-deps
+`pip install --upgrade pip setuptools wheel`
 
-https://stackoverflow.com/questions/63221439/detect-keypress-off-document
-https://www.electronjs.org/docs/latest/api/global-shortcut
+`py -m pip install ultralytics`
+
+`py -m pip install labelimg`
+
+`py -m pip install pyautogui`
+
+`py C:\Users\james\AppData\Local\Programs\Python\Python37\Lib\site-packages\label_studio\server.py`
+
